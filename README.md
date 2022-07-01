@@ -9,7 +9,7 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
 
 💡 &nbsp;I like to explore new technologies and implement them in projects.\
 🌱 &nbsp;I'm on track for learning more about Web Developement, Systems Design, and Cloud Architecture.\
-✉️ &nbsp;You can shoot me an email at dharurakarofficial@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at dharurkarofficial@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -49,8 +49,8 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
 
 <p align="center">
 <a href="https://github.com/rohan-d27">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-d27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-d27&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
