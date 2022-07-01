@@ -5,7 +5,9 @@
 -->
  
 I am a passionate Full Stack Developer with skills in different front-end and back-end technologies. I am passionate about solving complex problems and learning new technologies. 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+<br>
+
+💡 &nbsp;I like to explore new technologies and implement them in projects.\
 🌱 &nbsp;I'm on track for learning more about Web Developement, Systems Design, and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at dharurakarofficial@gmail.com! I'll try to respond as soon as I can.\
 
