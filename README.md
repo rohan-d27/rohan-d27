@@ -9,7 +9,7 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
 
 💡 &nbsp;I like to explore new technologies and implement them in projects.\
 🌱 &nbsp;I'm on track for learning more about Web Developement, Systems Design, and Cloud Architecture.\
-✉️ &nbsp;You can shoot me an email at dharurakarofficial@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at dharurakarofficial@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,7 +35,7 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)\
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
