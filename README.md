@@ -4,7 +4,7 @@
 **rohan-d27/rohan-d27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
  
-I am a passionate Full Stack Developer with skills in different front-end and back-end technologies. I am passionate about solving complex problems and learning new technologies.\
+I am a passionate Full Stack Developer with skills in different front-end and back-end technologies. I am passionate about solving complex problems and learning new technologies.
 
 
 💡 &nbsp;I like to explore new technologies and implement them in projects.\
@@ -49,9 +49,9 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/rohan-dharurkar"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dharurkarofficial@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rohan-dharurkar"><img src="https://img.shields.io/badge/-Rohan%20Vikram%20Dharurkar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:dharurkarofficial@gmail.com"><img src="https://img.shields.io/badge/-dharurkarofficial@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
------
+
