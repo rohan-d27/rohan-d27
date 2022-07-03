@@ -10,7 +10,6 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
 - 💡 &nbsp;I like to explore new technologies and implement them in projects.
 - 🌱 &nbsp;I'm on track for learning more about Web Developement and Systems Design.
 - 👯 &nbsp;I’m looking to collaborate with any Open - Source Web Projects
-- ✉️ &nbsp;You can shoot me an email at dharurkarofficial@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -59,8 +58,6 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
 
 <p align="center">
 <a href="https://linkedin.com/in/rohan-dharurkar"><img src="https://img.shields.io/badge/-Rohan%20%20Dharurkar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dharurkarofficial@gmail.com"><img src="https://img.shields.io/badge/-dharurkarofficial@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
 </p>
 
 
