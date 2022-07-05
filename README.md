@@ -53,6 +53,9 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-d27&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p>
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-d27&theme=blue-green)
+ </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
