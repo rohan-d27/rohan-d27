@@ -60,8 +60,8 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
 <a href="https://linkedin.com/in/rohan-dharurkar"><img src="https://img.shields.io/badge/-Rohan%20%20Dharurkar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 <p>
-<img src=https://komarev.com/ghpvc/?username=rohan-d27/>
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/rohan-d27)
+<img src="https://komarev.com/ghpvc/?username=rohan-d27"/>
+
  </p>
 
 
