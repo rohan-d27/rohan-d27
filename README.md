@@ -61,6 +61,7 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
 </p>
 <p>
 <img src=https://komarev.com/ghpvc/?username=rohan-d27/>
+ ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/rohan-d27)
  </p>
 
 
