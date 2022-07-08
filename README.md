@@ -55,12 +55,6 @@ I am a passionate Full Stack Developer with skills in different front-end and ba
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/rohan-dharurkar"><img src="https://img.shields.io/badge/-Rohan%20%20Dharurkar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=rohan-d27"/>
-</p>
 
 
 
