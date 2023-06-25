@@ -50,3 +50,15 @@ Here are some of the technologies I work with:
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-d27&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+<p><p align="left"> <a href="https://twitter.com/rohan_codes" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_codes?logo=twitter&style=for-the-badge" alt="rohan_codes" /></a> </p></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rohan_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohan_codes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohan-dharurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-dharurkar" height="30" width="40" /></a>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-d27&show_icons=true&locale=en&layout=compact" alt="rohan-d27" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-d27&show_icons=true&locale=en" alt="rohan-d27" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-d27&" alt="rohan-d27" /></p>
+
