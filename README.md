@@ -40,7 +40,7 @@ Here are some of the technologies I work with:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Swagger]([https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white])&nbsp;
 ![Bitbucket]([https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white])
-![REST API](https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png)
+![REST API]([https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=restapi&logoColor=white])
 
 ### ⚙️ &nbsp;GitHub Analytics
 
