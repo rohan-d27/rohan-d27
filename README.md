@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer with expertise in various front-end and back-end technologies. I love tackling complex problems and continuously expanding my knowledge of new technologies.
 
-- 💡 &nbsp;I enjoy exploring new technologies and incorporating them into my projects.
+- 💡 &nbsp;I enjoy exploring new technologies and incorporating them into my projectss.
 - 🌱 &nbsp;I'm currently focused on expanding my skills in Web Development and Systems Design.
 - 👯 &nbsp;I'm open to collaborating on any exciting Open-Source Web Projects.
 
