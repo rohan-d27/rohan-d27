@@ -46,4 +46,4 @@ Here are some of the technologies I work with:
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>
-<p><p align="left"> <a href="https://twitter.com/rohan_codes" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_codes?logo=twitter&style=for-the-badge" alt="rohan_codes" /></a> </p></p>
+<p><p align="left"> <a href="https://twitter.com/rohan_codes" target="blank"><img src="https://img.shields.io/twitter/follow/RohanCodez?logo=twitter&style=for-the-badge" alt="RohanCodez" /></a> </p></p>
