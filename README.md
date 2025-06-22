@@ -45,5 +45,4 @@ Here are some of the technologies I work with:
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-d27&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-<h3 align="left">Connect with me:</h3>
-<p><p align="left"> <a href="https://twitter.com/RohanCodez" target="blank"><img src="https://img.shields.io/twitter/follow/RohanCodez?logo=twitter&style=for-the-badge" alt="RohanCodez" /></a> </p></p>
+
