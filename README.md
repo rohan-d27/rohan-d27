@@ -10,9 +10,9 @@
 
 ### 👨‍💻 About Me
 
-I am a **Results-oriented Software Engineer** with **3.5+ years of experience** specializing in modern backend architecture. My core expertise lies in migrating legacy monoliths to **Cloud-Native Microservices** and orchestrating complex API integrations in the **TravelTech** domain.
+I am a **Results-oriented Software Engineer** with **4+ years of experience** specializing in modern backend architecture. My core expertise lies in migrating legacy monoliths to **Cloud-Native Microservices** and orchestrating complex API integrations in the **TravelTech** domain.
 
-- 🔭 **I’m currently working on:** High-performance flight booking engines using **.NET 9** and **AWS EKS**.
+- 🔭 **I’m currently working on:** High-performance flight booking engines using **.NET 10** and **AWS**.
 - 🌱 **I’m currently learning:** Advanced **System Design** patterns and **OpenTelemetry** observability strategies.
 - 🚀 **Key Achievement:** Reduced system latency by **30%** through asynchronous optimization and caching strategies.
 - 💬 **Ask me about:** .NET Core, Microservices, Domain-Driven Design (DDD), and Distributed Systems.
@@ -23,10 +23,9 @@ I am a **Results-oriented Software Engineer** with **3.5+ years of experience** 
 
 #### 🔙 Backend & Architecture
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET 9](https://img.shields.io/badge/.NET%209-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET 10](https://img.shields.io/badge/.NET%209-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-181717?style=for-the-badge&logo=microgenetics&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
